@@ -1,2 +1,5 @@
 # transformer_based_dialog_engine
-Transformer(Attention is all you need) based dialog engine. (use tensorflow)
+
+It is also based on the 'Attention is all you need' written by Google.
+
+※ just use tensorflow not pytorch
