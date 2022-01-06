@@ -1,5 +1,5 @@
-# transformer_based_dialog_engine
+# Transformer_Based_Dialog_Engine
 
 It is also based on the 'Attention is all you need' written by Google.
 
-※ just use tensorflow not pytorch
+※ Just use tensorflow not pytorch
