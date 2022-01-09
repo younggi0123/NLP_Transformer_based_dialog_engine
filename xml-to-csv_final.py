@@ -18,7 +18,6 @@
 # 위키 데이터 구성
 # wiki_rows = ['page_id', 'title', 'timestamp', 'text']
 
-
 import xmltodict
 import os
 import time
